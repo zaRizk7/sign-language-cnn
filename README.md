@@ -1,4 +1,4 @@
-# sign-language-cnn
+# Convolutional Neural Network Classifier for Indonesian Sign Language.
 Simple convolutional neural network classifier for sign language.
 
 The test set evaluation results are as follows:
